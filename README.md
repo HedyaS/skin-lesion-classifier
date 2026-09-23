@@ -28,6 +28,7 @@
 
 **Currently in Development**
 
+The project is actively being developed, and features may change as the model and application are improved.
 
 ## Contributors 
 
