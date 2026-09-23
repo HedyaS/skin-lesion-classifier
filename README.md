@@ -3,6 +3,8 @@
 
 ## Overview
 
+The **Skin Lesion Identifier** is a web-based project designed to explore how artificial intelligence and image analysis can be used to assist with identifying different types of skin lesions.
+
 ## Features
 
 
