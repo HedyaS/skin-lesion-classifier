@@ -11,6 +11,7 @@ The **Skin Lesion Identifier** is a web-based project designed to explore how ar
 ## Project Goals 
 - Explore the use of machine learning in medical image classification
 - Develop experience working with image-based datasets
+- Understand how AI models can be integrated into real-world applications
 
 ## How It Works
 
